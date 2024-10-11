@@ -45,10 +45,6 @@
 - 如何做好SEO
 
 
-你的支持是我更新的动力!
-
-<a href="https://www.buymeacoffee.com/qiufeng" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
-
 ### 1.出海淘金基础
 
 **193 刀注册美国公司 + EIN + stripe + 水星银行**
